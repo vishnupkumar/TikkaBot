@@ -23,4 +23,4 @@ ROS robot inspired by TurtleBot 3 Burger
 
 ## Circuit v1 (Bluetooth Control)
 
-![](images/circuit.png)
+![](images/circuit.jpg)
