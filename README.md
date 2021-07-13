@@ -5,4 +5,4 @@ ROS robot inspired by TurtleBot 3 Burger
 
 ## CAD Model
 
-![](images/cad1.jpg) ![](images/cad2.jpg)
+![](images/cad1.png) ![](images/cad2.png)
