@@ -1,7 +1,7 @@
 # TikkaBot
 ROS robot inspired by TurtleBot 3 Burger
 
-![](images/pic2.png)
+![](images/pic1.png)
 
 ## CAD Model
 
