@@ -20,3 +20,7 @@ ROS robot inspired by TurtleBot 3 Burger
 - 11.1V 3S Lithium Ion Battery Pack
 - 10 RPM DC Gear Motor with encoder
 - 55mm wheels
+
+## Circuit v1 (Bluetooth Control)
+
+![](images/circuit.png)
